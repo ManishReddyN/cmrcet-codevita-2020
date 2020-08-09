@@ -1,11 +1,11 @@
 ---
 template: index-page
 slug: /
-title: Wyatt Morriss
-tagline: Graphic Designer
+title: Code Vita 2020
+tagline: CMR College Of Engineering & Technology
 featuredImage: /assets/tcs-code-vita-2020-solutions.png
 cta:
   ctaText: Know more
-  ctaLink: /about
+  ctaLink: /blog
 ---
-He is a award winning gaming graphic designer, based in sunny side of California. Working as Principal designer at Bethesda
+Solutions to Code Vita 2020 by our students
