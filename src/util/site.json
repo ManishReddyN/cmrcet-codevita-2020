@@ -1,11 +1,11 @@
 {
   "meta": {
-    "title": "Foundation",
+    "title": "CMRCET Code Vita 2020",
     "titleTemplate": "%s",
-    "description": "A starter to launch your blazing fast personal website and a blog, Built with Gatsby and Netlify CMS. Made with ❤ by Stackrole",
+    "description": "Solutions for Code Vita 2020 by students of CMR College Of Engineering & Technology",
     "siteUrl": "https://foundation.stackrole.com",
-    "image": "/assets/stackrole.png",
-    "twitterUsername": "@stackrole"
+    "image": "/assets/cmrcetlogoblacknbg.png",
+    "twitterUsername": "@cmrcet_official"
   },
-  "ga": "UA-XXXXXXXXX-X"
+  "ga": "G-PYCJQFJFRT"
 }
